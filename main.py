@@ -1,3 +1,10 @@
+# ---------------------------------------------|
+# Auther => Engineer Karim Mohammed Aboelazm   |
+# Date => 2-2-2022                             |
+# Library used => PyPDF2 , pyttsx3             |
+# using => pip install PyPDF2                  |
+#       => pip install pyttsx3                 |
+# ---------------------------------------------|
 import PyPDF2 as pdf
 import pyttsx3 as pytts
 
